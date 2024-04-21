@@ -1,7 +1,5 @@
-<blink>
-### Sorry for the mess.
-</blink>
+<center>
+<h3>Sorry for the mess.</h3>
 
-<marquee>
-I've given up trying to present my projects in a structured way.
-</marquee>
+<p>I've given up trying to present my projects in a structured way.</p>
+</center>

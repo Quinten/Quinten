@@ -1,5 +1,3 @@
-<center>
-<h3>Sorry for the mess.</h3>
+### Sorry for the mess.
 
-<p>I've given up trying to present my projects in a structured way.</p>
-</center>
+I've given up trying to present my projects in a structured way.
